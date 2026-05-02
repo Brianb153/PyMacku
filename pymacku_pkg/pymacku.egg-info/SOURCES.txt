@@ -1,7 +1,0 @@
-pyproject.toml
-pymacku/__init__.py
-pymacku.egg-info/PKG-INFO
-pymacku.egg-info/SOURCES.txt
-pymacku.egg-info/dependency_links.txt
-pymacku.egg-info/requires.txt
-pymacku.egg-info/top_level.txt
